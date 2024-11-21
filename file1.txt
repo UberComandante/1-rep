@@ -3,7 +3,6 @@ yes test
 asd
 boom.
 ka
-
 new wave
 new lines  
 yeah-yeah
